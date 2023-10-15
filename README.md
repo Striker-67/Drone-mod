@@ -7,5 +7,6 @@ pretty much you get a drone you can fly around(ONLY WORKS IN MODDEDS)
 
 # click the power button if its red to turn it on
 
-![image](https://github.com/FURY909/Drone-mod/assets/86896895/0ed96f35-4ce3-4cc0-9c10-fbf0abd19b65)
+![image](https://github.com/FURY909/Drone-mod/assets/86896895/c7208f34-b10d-4283-9e8f-53b828801f3e)
+
 
