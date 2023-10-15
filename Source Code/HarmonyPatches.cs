@@ -1,8 +1,7 @@
 ﻿using HarmonyLib;
-using System;
 using System.Reflection;
 
-namespace Mod4
+namespace DroneMod
 {
     /// <summary>
     /// This class handles applying harmony patches to the game.
